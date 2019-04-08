@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![here](http://g.recordit.co/sBguer0t4O.gif)
 
-[visit the site herer](https://cranky-snyder-8a4784.netlify.com/)
+[visit the site here](https://cranky-snyder-8a4784.netlify.com/)
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
